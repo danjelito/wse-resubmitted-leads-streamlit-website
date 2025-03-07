@@ -22,7 +22,7 @@ with st.sidebar:
         "3. Export the leads data using the export template **'Devan - Resubmitted Leads'**.",
         "4. Upload the exported file to this website.",
         "5. Go to **Erwin > CRM > Pipeline > Leads and Pipeline**.",
-        "6. Add a filter: **'Created on is after'** (set to 30 days prior to today).",
+        "6. Add a filter: **'Submit date is after'** (set to 30 days prior to today).",
         "7. Export the leads data using the export template **'Devan - Resubmitted Leads'**.",
         "8. Upload the exported file to this website.",
         "9. Click **'Generate Report'** to process the data and get the results.",
