@@ -40,7 +40,7 @@ with st.sidebar:
         "3. Ekspor data leads menggunakan template ekspor **'Devan - Resubmitted Leads'**.",
         "4. Unggah file yang telah diekspor ke situs web ini.",
         "5. Buka **Erwin > CRM > Pipeline > Leads and Pipeline**.",
-        "6. Tambahkan filter: **'Created on is after'** (atur ke 30 hari sebelum hari ini).",
+        "6. Tambahkan filter: **'Submit date is after'** (atur ke 30 hari sebelum hari ini).",
         "7. Ekspor data leads menggunakan template ekspor **'Devan - Resubmitted Leads'**.",
         "8. Unggah file yang telah diekspor ke situs web ini.",
         "9. Klik **'Generate Report'** untuk memproses data dan mendapatkan hasilnya.",
